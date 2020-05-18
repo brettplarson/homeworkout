@@ -1,37 +1,56 @@
-## Welcome to GitHub Pages
+## Home workout
 
-You can use the [editor on GitHub](https://github.com/brettplarson/homeworkout/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A simple home workout routine thanks to Nishi, now easier to read with Github pages.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For sets/reps I will just have to figure it out as I go.
 
-### Markdown
+Try to do 3-5 sets of as many reps as you need to do to get to failure on the last set
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Summary
 
-```markdown
-Syntax highlighted code block
+* Legs/Abs/Shoulders on [Sunday](#Sunday)
+* Back/bi's on [Tuesday](#Tuesday)
+* Chest/tri's on [Thursday](#Thursday)
 
-# Header 1
-## Header 2
-### Header 3
+## Sunday
+#### Legs
 
-- Bulleted
-- List
+![Image](https://i.imgur.com/ygy5ie3.gif)
 
-1. Numbered
-2. List
+#### Abs
+* Crunches
+* Planks
 
-**Bold** and _Italic_ and `Code` text
+#### Shoulders
 
-[Link](url) and ![Image](src)
-```
+![Image](https://hips.hearstapps.com/ame-prod-menshealth-assets.s3.amazonaws.com/main/assets/how-to-do-a-lateral-raise.gif?resize=480:*)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![Image](https://media3.giphy.com/media/7lugb7ObGYiXe/giphy.gif)
 
-### Jekyll Themes
+![Image](https://thumbs.gfycat.com/OptimalIckyGiantschnauzer-size_restricted.gif)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brettplarson/homeworkout/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Tuesday
 
-### Support or Contact
+#### Biceps
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://shredzonefitness.files.wordpress.com/2019/04/bicep-curls.gif?w=364&h=205)
+
+
+#### Back
+
+![Image](https://i.pinimg.com/originals/1c/ed/f8/1cedf8f55af54890fefb520f12dc2710.gif)
+
+![Image](https://thumbs.gfycat.com/FrankDecisiveKatydid-size_restricted.gif)
+
+## Thursday
+
+#### Triceps
+
+![Image](https://media0.giphy.com/media/cJMZtP13i6nlhTip3V/200.gif)
+
+#### Chest
+
+![Image](https://www.gymguider.com/wp-content/uploads/2017/10/flat-bench-dumbbell-flyes.gif)
+
+![Image](https://www.gymguider.com/wp-content/uploads/2017/10/dumbbell-bench.gif)
+
