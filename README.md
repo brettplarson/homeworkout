@@ -8,11 +8,12 @@ Try to do 3-5 sets of as many reps as you need to do to get to failure on the la
 
 ### Summary
 
-* Legs/Abs/Shoulders on [Sunday](#Sunday)
-* Back/bi's on [Tuesday](#Tuesday)
-* Chest/tri's on [Thursday](#Thursday)
+* Legs/Abs on [Monday](#Monday)
+* Shoulders on [Tuesday](#Tuesday)
+* Back/bi's on [Thursday](#Thursday)
+* Chest/tri's on [Saturday](#Saturday)
 
-## Sunday
+## Monday
 #### Legs
 
 ![Image](https://i.imgur.com/ygy5ie3.gif)
@@ -20,6 +21,8 @@ Try to do 3-5 sets of as many reps as you need to do to get to failure on the la
 #### Abs
 * Crunches
 * Planks
+
+## Tuesday
 
 #### Shoulders
 
@@ -29,7 +32,7 @@ Try to do 3-5 sets of as many reps as you need to do to get to failure on the la
 
 ![Image](https://thumbs.gfycat.com/OptimalIckyGiantschnauzer-size_restricted.gif)
 
-## Tuesday
+## Thursday
 
 #### Biceps
 
@@ -42,7 +45,7 @@ Try to do 3-5 sets of as many reps as you need to do to get to failure on the la
 
 ![Image](https://thumbs.gfycat.com/FrankDecisiveKatydid-size_restricted.gif)
 
-## Thursday
+## Saturday
 
 #### Triceps
 
